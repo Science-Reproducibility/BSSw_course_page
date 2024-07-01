@@ -27,5 +27,8 @@ Don't worry you will learn more about the Git during the course!
 ## Testing and Debugging with Python
 - WIP
 
+## About me
+[Profile on BSSw website](https://bssw.io/fellows/dorota-jarecka)
+
 ## Acknowledgment 
 This work is done as a part of the [BSSw Fellowship Program](https://bssw.io/pages/bssw-fellowship-program)
