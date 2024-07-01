@@ -2,9 +2,12 @@
 layout: default
 ---
 
-# Program Overview
+# Best practices for reproducibility and testing in scientific software
 
-The goal of thisproject is to establish a community of scientists through an seven-months training program, fostering continuous learning and the integration of best practices in scientific software development. 
+
+## Program Overview
+
+The goal of this project is to establish a community of scientists through an seven-months training program, fostering continuous learning and the integration of best practices in scientific software development. 
 
 The course will start in September 2024 and will continue to early 2025. 
 Each month we will work on a different module from two main sections, Reproducibility in Scientific Software 
