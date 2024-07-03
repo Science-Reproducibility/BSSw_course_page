@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Best practices for reproducibility and testing in scientific software
-
 
 ## Program Overview
 
