@@ -27,7 +27,8 @@ Don't worry you will learn more about the Git during the course!
 - [Introduction to Version Control Systems and Git](https://github.com/Science-Reproducibility/version-control-systems)
 
 ## Testing and Debugging with Python
-- WIP
+- [Introduction to pytest](https://github.com/Science-Reproducibility/pytest-introduction)
+- [Introduction to debugging in Python](https://github.com/Science-Reproducibility/python-debugging)
 
 ## About me
 [Profile on BSSw website](https://bssw.io/fellows/dorota-jarecka)
