@@ -17,17 +17,17 @@ Additionally, there will be organized sessions held on a monthly cycle, culminat
 We will be using GitHub and GitHub Skills templates during the course, so you shoul create a GitHub account ( https://github.com and follow the “Sign up” link) and I strongly suggest completing two GitHub skills courses:
 
 - [Introduction to GitHub](https://github.com/skills/introduction-to-github)
-- [Code with Codespace](https://github.com/skills/code-with-codespaces) (the first 3 steps are enough for this course)
+- [Code with Codespace](https://github.com/skills/code-with-codespaces) (the first step is enough for this course)
 
 Don't worry you will learn more about the Git during the course!
 
 ## Reproducibility in Scientific Software
 - [Introduction to Shell](https://github.com/Science-Reproducibility/shell)
-- [Introduction to Version Control Systems and Git](https://github.com/Science-Reproducibility/version-control-systems)
+- Introduction to Version Control Systems and Git: *The link will be added soon*
 
 ## Testing and Debugging with Python
-- [Introduction to pytest](https://github.com/Science-Reproducibility/pytest-introduction)
-- [Introduction to debugging in Python](https://github.com/Science-Reproducibility/python-debugging)
+- Introduction to pytest: *The link will be added soon*
+- Introduction to debugging in Python: *The link will be added soon*
 
 ## About me and BSSw 
 This work is done as a part of the [Better Scientific Software (BSSw) Fellowship Program](https://bssw.io/pages/bssw-fellowship-program).
