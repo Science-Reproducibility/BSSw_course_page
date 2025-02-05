@@ -10,16 +10,17 @@ The goal of this project is to promote continuous learning, encourage the integr
 
 The individual courses are designed to be self-paced, spanning 3-5 weeks, with a relatively small time commitment of 1-2 hours per week.
 
-Additionally, there will be organized sessions held on a monthly cycle, culminating in a virtual office hour to address questions and provide further support (schedule to be determined).
+**You can do the courses on your own time, but starting February 2025 I will offer virtual office hours.
+Please sign up for updates by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdMvgMOuDDlvBZJihMb1ZO6kIGpmyYG5LdjfdrqgYxjX32Zxg/viewform?usp=header).**
 
 
 ## Course Prerequisite
-We will be using GitHub and GitHub Skills templates during the course, so you shoul create a GitHub account ( https://github.com and follow the “Sign up” link) and I strongly suggest completing two GitHub skills courses:
+We will be using GitHub and GitHub Skills templates during the course, so you should create a GitHub account (go to https://github.com and follow the “Sign up” link) and I strongly suggest completing two GitHub skills courses:
 
 - [Introduction to GitHub](https://github.com/skills/introduction-to-github)
 - [Code with Codespace](https://github.com/skills/code-with-codespaces) (the first step is enough for this course)
 
-Don't worry you will learn more about the Git during the course!
+Don't worry, you will learn more about the Git during the course!
 
 ## Reproducibility in Scientific Software
 - [Introduction to Shell](https://github.com/Science-Reproducibility/shell)
