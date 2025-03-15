@@ -35,6 +35,8 @@ This work is done as a part of the [Better Scientific Software (BSSw) Fellowship
 
 You can find my profile on [the BSSw website](https://bssw.io/fellows/dorota-jarecka)
 
+You can also read about [my experience with the fellowship](./blog-post.html).
+
 ## Acknowledgment 
 This work was supported by the Better Scientific Software Fellowship Program, a collaborative effort of the U.S. Department of Energy (DOE), Office of Advanced Scientific Research via ANL under Contract DE-AC02-06CH11357 and the National Nuclear Security Administration Advanced Simulation and Computing Program via LLNL under Contract DE-AC52-07NA27344; and by the National Science Foundation (NSF) via SHI under Grant No. 2327079.
 
