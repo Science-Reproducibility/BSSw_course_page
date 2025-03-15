@@ -4,8 +4,6 @@ title: Reflections on the BSSw Fellowship
 description: Teaching, Learning, and Community
 ---
 
-## Reflections on the BSSw Fellowship: Teaching, Learning, and Community
-
 In the fall of 2023, I applied for the Better Scientific Software (BSSw) Fellowship Program, an initiative dedicated to improving the quality, sustainability, and impact of scientific software. Sponsored by the U.S. Department of Energy, the program supports researchers, developers, and advocates who are committed to advancing best practices in research computing.
 
 I was drawn to the fellowship because its mission deeply resonated with me. As scientific research increasingly relies on software, ensuring that it remains efficient, sustainable, and reproducible is more important than ever. The BSSw Fellowship provides a unique opportunity to bridge this gap, empowering individuals to lead improvements in software development, documentation, testing, and training within the scientific community.
