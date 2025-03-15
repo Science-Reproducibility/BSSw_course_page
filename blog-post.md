@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: Blog Post
+title:
+description: Reflections on the BSSw Fellowship: Teaching, Learning, and Community
 ---
 
 ## Reflections on the BSSw Fellowship: Teaching, Learning, and Community
