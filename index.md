@@ -10,8 +10,8 @@ The goal of this project is to promote continuous learning, encourage the integr
 
 The individual courses are designed to be self-paced, spanning 3-5 weeks, with a relatively small time commitment of 1-2 hours per week.
 
-**You can do the courses on your own time, but starting February 2025 I will offer virtual office hours.
-Please sign up for updates by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdMvgMOuDDlvBZJihMb1ZO6kIGpmyYG5LdjfdrqgYxjX32Zxg/viewform?usp=header).**
+**You can complete the courses at your own pace, but I will be running multiple editions during which I will provide more structured experience and office hours. I will be providing updated schedule on this webpage.**
+- If you want to join the session starting February 2025, please sign up for updates by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSdMvgMOuDDlvBZJihMb1ZO6kIGpmyYG5LdjfdrqgYxjX32Zxg/viewform?usp=header).
 
 
 ## Course Prerequisite
@@ -24,11 +24,11 @@ Don't worry, you will learn more about the Git during the course!
 
 ## Reproducibility in Scientific Software
 - [Introduction to Shell](https://github.com/Science-Reproducibility/shell)
-- Introduction to Version Control Systems and Git: *The link will be added soon*
+- [Introduction to Version Control Systems and Git](https://github.com/Science-Reproducibility/version-control-systems)
 
 ## Testing and Debugging with Python
-- Introduction to pytest: *The link will be added soon*
-- Introduction to debugging in Python: *The link will be added soon*
+- [Introduction to pytest](https://github.com/Science-Reproducibility/pytest-introduction)
+- [Introduction to debugging in Python](https://github.com/Science-Reproducibility/python-debugging)
 
 ## About me and BSSw 
 This work is done as a part of the [Better Scientific Software (BSSw) Fellowship Program](https://bssw.io/pages/bssw-fellowship-program).
