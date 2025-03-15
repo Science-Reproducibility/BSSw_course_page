@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 
 description: Reflections on the BSSw Fellowship: Teaching, Learning, and Community
 ---
 
